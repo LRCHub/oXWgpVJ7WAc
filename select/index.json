@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "After You Sleep",
+  "base_artist": "rionos",
+  "createdAt": "2025-12-01T12:02:58.417241Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "AFTER YOU SLEEP FEAT.SWINGS -KR Ver.-",
+      "artist": "SOL (from BIGBANG)",
+      "has_synced": true,
+      "path": "select/01_AFTER_YOU_SLEEP_FEAT.SWINGS_-KR_Ver.-_SOL_(from_BIGBANG).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "After You Sleep (니가 잠든 후에) [feat. Swings]",
+      "artist": "TAEYANG",
+      "has_synced": false,
+      "path": "select/02_After_You_Sleep_(니가_잠든_후에)_[feat._Swings]_TAEYANG.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "AFTER YOU SLEEP FEAT.SWINGS -KR Ver.-",
+      "artist": "SOL",
+      "has_synced": true,
+      "path": "select/03_AFTER_YOU_SLEEP_FEAT.SWINGS_-KR_Ver.-_SOL.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "After You Sleep (feat. Swings)",
+      "artist": "TAEYANG",
+      "has_synced": false,
+      "path": "select/04_After_You_Sleep_(feat._Swings)_TAEYANG.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "After You Sleep (니가 잠든 후에)",
+      "artist": "TAEYANG",
+      "has_synced": true,
+      "path": "select/05_After_You_Sleep_(니가_잠든_후에)_TAEYANG.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "After You Sleep",
+      "artist": "Rionos",
+      "has_synced": true,
+      "path": "select/06_After_You_Sleep_Rionos.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "After You Sleep (-for the Blue ver.-)",
+      "artist": "Rionos",
+      "has_synced": true,
+      "path": "select/07_After_You_Sleep_(-for_the_Blue_ver.-)_Rionos.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "After You Sleep -for the Blue ver.-",
+      "artist": "rionos",
+      "has_synced": true,
+      "path": "select/08_After_You_Sleep_-for_the_Blue_ver.-_rionos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "After You Sleep",
+      "artist": "rionos",
+      "has_synced": false,
+      "path": "select/pl_01_After_You_Sleep_rionos.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "After You Sleep",
+      "artist": "rionos",
+      "has_synced": false,
+      "path": "select/pl_02_After_You_Sleep_rionos.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "After You Sleep (-for the Blue ver.-)",
+      "artist": "rionos",
+      "has_synced": false,
+      "path": "select/pl_03_After_You_Sleep_(-for_the_Blue_ver.-)_rionos.txt"
+    }
+  ]
+}
